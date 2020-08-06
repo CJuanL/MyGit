@@ -10,5 +10,3 @@ public class Hello{
 	}
 }
 mater:主线修改的分支
-
-push
