@@ -9,4 +9,4 @@ public class Hello{
 		System.out.println(a+b);
 	}
 }
-mater:主线修改的分支
+master:主线修改的分支
